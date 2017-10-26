@@ -3,9 +3,10 @@
   Version="1">
   <TocEntry
     Title="Browser Main Topic"
-    Link="/Content/MainTopic.htm"></TocEntry>
+    Link="/Content/MainTopic.htm" />
   <TocEntry
-    Title="New entry"
+    Title="Browse Linked Topic "
     Link="../../../../BrowseSequenceLinked Git/BrowseSequenceLinked Git.flprj#HTML5"
+    CentralId="4652"
     AbsoluteLink="file:///C:/Users/mcolon/Documents/My Projects/BrowseSequenceGit/BrowseSequenceLinked Git/BrowseSequenceLinked Git.flprj#HTML5" />
 </CatapultToc>
