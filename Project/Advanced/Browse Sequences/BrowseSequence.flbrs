@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Browser Main Topic"
+    Link="/Content/MainTopic.htm"></TocEntry>
+  <TocEntry
+    Title="New entry"
+    Link="../../../../BrowseSequenceLinked Git/BrowseSequenceLinked Git.flprj#HTML5"
+    AbsoluteLink="file:///C:/Users/mcolon/Documents/My Projects/BrowseSequenceGit/BrowseSequenceLinked Git/BrowseSequenceLinked Git.flprj#HTML5" />
+</CatapultToc>
